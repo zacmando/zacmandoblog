@@ -27,7 +27,7 @@ menu:
 params:
   abbrDateFmt: "Jan 2"
   author: "ZM"
-  brandIconFile: "images/perl-camel.png"
+  brandIconFile: "images/perl-camel.jpg"
   dateFmt: "2006-01-02"
 #  customStylesheets: # Use to override theme styles, like logo size
 #    - "css/custom.css"
