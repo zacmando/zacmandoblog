@@ -33,14 +33,10 @@ params:
 #    - "css/custom.css"
   social:
     - name: GitHub
-      url: https://github.com/ian-s-mcb
-    - name: GitLab
-      url: https://gitlab.com/ian-s-mcb
-    - name: Quizlet
-      url: https://quizlet.com/ian-s-mcb
-    - name: Reddit
-      url: https://www.reddit.com/user/ian-s-mcb
-    - name: StackOverflow
-      url: https://stackoverflow.com/users/3417846/ian-s-mcb
+      url: https://github.com/zacmando
+    - name: Instagram
+      url: https://instagram.com/zacmando10
+    - name: Personal website
+      url: https://zacmerhi.com
   subtitle: "An uncurated memory labrinth"
 
